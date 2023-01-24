@@ -29,7 +29,7 @@
 - [Python](https://github.com/Kitiv13/PythonPractice.git)
 
 
-### Contact me
+### Contact Me
 [![Header](https://img.shields.io/badge/Gmail-111924?style=for-the-badge&logo=gmail)](mailto:tatyana.ved13@gmail.com)
 [![Header](https://img.shields.io/badge/Telegram-111924?style=for-the-badge&logo=telegram)](https://t.me/Tatyana_Ved)
 [![Header](https://img.shields.io/badge/Linkedin-111924?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/artsiomrusau/) 
