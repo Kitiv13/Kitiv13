@@ -30,6 +30,9 @@
 
 
 ### Contact me
-[![Header](https://img.shields.io/badge/GMail-111924?style=for-the-badge&logo=gmail)](tatyana.ved13@gmail.com)
+[![Header](https://img.shields.io/badge/Gmail-111924?style=for-the-badge&logo=gmail)](mailto:tatyna.ved13@gmail.com)
 [![Header](https://img.shields.io/badge/Telegram-111924?style=for-the-badge&logo=telegram)](https://t.me/Tatyana_Ved)
-[![Header](https://img.shields.io/badge/Linkedin-111924?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/artsiomrusau/)
+[![Header](https://img.shields.io/badge/Linkedin-111924?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/artsiomrusau/) 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitiv13&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
