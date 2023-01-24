@@ -21,7 +21,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-111924?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/MySQL-111924?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/AndroidStudio-111924?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/Github-111924?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Github-111924?style=for-the-badge&logo=github)
 
 ### Practice
 - [Checklists](https://github.com/Kitiv13/CheckLists.git)
@@ -29,5 +29,7 @@
 - [Python](https://github.com/Kitiv13/PythonPractice.git)
 
 
-
-Contact me
+### Contact me
+[![Header](https://img.shields.io/badge/GMail-111924?style=for-the-badge&logo=gmail)](tatyana.ved13@gmail.com)
+[![Header](https://img.shields.io/badge/Telegram-111924?style=for-the-badge&logo=telegram)](https://t.me/Tatyana_Ved)
+[![Header](https://img.shields.io/badge/Linkedin-111924?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/artsiomrusau/)
