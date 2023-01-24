@@ -23,4 +23,11 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-111924?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Github-111924?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
+### Practice
+- [Checklists](https://github.com/Kitiv13/CheckLists.git)
+- [Bug-Reports](https://github.com/Kitiv13/Bug-Reports.git)
+- [Python](https://github.com/Kitiv13/PythonPractice.git)
+
+
+
 Contact me
