@@ -27,12 +27,12 @@
 - [Checklists](https://github.com/Kitiv13/CheckLists.git)
 - [Bug-Reports](https://github.com/Kitiv13/Bug-Reports.git)
 - [Python](https://github.com/Kitiv13/PythonPractice.git)
+- [Postman Collections](https://github.com/Kitiv13/Postman-Collections.git)
+- [SQL Queries](https://github.com/Kitiv13/SQL-Queries.git)
 
 
 ### Contact Me
 [![Header](https://img.shields.io/badge/Gmail-111924?style=for-the-badge&logo=gmail)](mailto:tatyana.ved13@gmail.com)
 [![Header](https://img.shields.io/badge/Telegram-111924?style=for-the-badge&logo=telegram)](https://t.me/Tatyana_Ved)
-[![Header](https://img.shields.io/badge/Linkedin-111924?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/artsiomrusau/) 
+[![Header](https://img.shields.io/badge/Linkedin-111924?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0-%D0%B2%D0%B5%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0-205512257/) 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitiv13&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
