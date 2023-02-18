@@ -1,9 +1,9 @@
 ![Header](https://github.com/Kitiv13/Kitiv13/blob/main/assets/assets.jpg)
 
-## I`m a Junior QA Engineer.
+## I`m a QA Engineer.
 
 ### My CV
-[Link to my CV](https://novosibirsk.hh.ru/applicant/resumes/view?resume=8684bf39ff0b3e21640039ed1f713773757765/)
+[Link to my CV](https://drive.google.com/file/d/1RVw-3-XHDhppn4mxS7ygz8-M4OWaiChr/view?usp=share_link)
 
 
 ### Language and Tools
