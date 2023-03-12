@@ -1,4 +1,3 @@
-![Header](https://github.com/Kitiv13/Kitiv13/blob/main/assets/assets.jpg)
 
 ## I`m a QA Engineer.
 
